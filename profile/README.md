@@ -1,6 +1,6 @@
 # CYBASTION BU Digital
 
-![Cybastion Logo](./logo-cybastion.png)
+![Cybastion Logo](../logo-cybastion.png)
 
 ---
 
